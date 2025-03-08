@@ -28,7 +28,8 @@ myMarkItDown/
 │   └── myMarkItDown-0.py    # 主程序文件
 ├── docs/
 │   └── usage.md             # 详细使用文档
-└── README.md                # 项目说明文档
+└── README.md  # 项目说明文档
+|__ requirements.txt 项目依赖
 ```
 
 ### 错误处理
